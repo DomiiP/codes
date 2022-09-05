@@ -11,7 +11,7 @@ int main(){
     for(i=0;i<n;i++){
       cin>>a[i];
     }
-    cout<<"the elemets are"<<endl;
+    cout<<"the elements are"<<endl;
     for(i=0;i<n;i++){
         cout<<a[i]<<endl;
     }
